@@ -1,0 +1,10 @@
+{
+    "api": "https://hls.demoblaze.com/about_demo_hls_600k.m3u8",
+    "reqmethod": "get",
+    "reqheaders": {
+        "Content-Type": "application/json",
+        "Accept": "application/json"
+    },
+    "reqpayload": {},
+    "apiname":"aboutdemo"
+}
