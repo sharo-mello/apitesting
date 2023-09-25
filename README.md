@@ -17,3 +17,7 @@ result = {
                 "datasent(bytes)": (amount of data you sent)
                 "datareceived(bytes)": (amount of data received)
             }
+
+Learn more about API testing using K6
+
+https://k6.io/docs/
