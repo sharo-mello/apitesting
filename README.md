@@ -2,8 +2,10 @@
 
 # step 1: Enter your API requirements in apitesting.json
   In this step you can mention the VUs and  time you gonna hit the test. for more details on load generation pattern please refer to https://k6.io/docs/using-k6/scenarios/executors/
-# step 2: Run the python file as python perftest.py
+# step 2: Run the python file
 
+  python runtest.py
+  
 You will get the performance metrics as like this 
 
 result = {
